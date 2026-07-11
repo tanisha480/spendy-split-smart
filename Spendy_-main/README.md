@@ -76,7 +76,7 @@ Follow these steps to get a copy of Spendy up and running on your local machine 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/tushit24/Spendy_.git
+   git clone https://github.com/tanisha480/Spendy_.git
    cd Spendy_
    ```
 
